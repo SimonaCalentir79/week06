@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CTS_Models_Interface\bin\Debug\CTS_Models_Interface.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CTS_Models_Interface\bin\Debug\CTS_Models_Interface.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CTS_Models_Interface\obj\Debug\CTS_Models_Interface.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CTS_Models_Interface\obj\Debug\CTS_Models_Interface.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CTS_Models_Interface\obj\Debug\CTS_Models_Interface.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CTS_Models_Interface\obj\Debug\CTS_Models_Interface.pdb

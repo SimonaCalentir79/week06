@@ -1,0 +1,10 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\bin\Debug\CommonTypeSystem.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\bin\Debug\CTS_Models_Interface.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\bin\Debug\CTS_Models_Interface.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\obj\Debug\CommonTypeSystem.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\obj\Debug\CommonTypeSystem.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\obj\Debug\CommonTypeSystem.csproj.CopyComplete
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\obj\Debug\CommonTypeSystem.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\CommonTypeSystem\obj\Debug\CommonTypeSystem.pdb

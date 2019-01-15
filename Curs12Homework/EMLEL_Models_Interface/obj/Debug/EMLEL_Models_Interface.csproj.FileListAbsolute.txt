@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\EMLEL_Models_Interface\bin\Debug\EMLEL_Models_Interface.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\EMLEL_Models_Interface\bin\Debug\EMLEL_Models_Interface.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\EMLEL_Models_Interface\obj\Debug\EMLEL_Models_Interface.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\EMLEL_Models_Interface\obj\Debug\EMLEL_Models_Interface.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\EMLEL_Models_Interface\obj\Debug\EMLEL_Models_Interface.dll
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs12Homework\EMLEL_Models_Interface\obj\Debug\EMLEL_Models_Interface.pdb
